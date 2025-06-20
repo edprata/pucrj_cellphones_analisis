@@ -4,9 +4,11 @@ Projeto final da disciplina Análise de Dados e Boas Práticas do MBA PUC-RJ em 
 
 **Nome:** Edmilson Prata da Silva
 
-**Matrícula:** 2025000
+**Matrícula:** 4052024002125
 
 **Dataset:** Mobiles Dataset (2025): Modelos de Celulares lançados entre 2015 e 2025 ([fonte](https://www.kaggle.com/datasets/abdulmalik1518/mobiles-dataset-2025/data)).
+
+**Versão Google Colab:** https://colab.research.google.com/drive/1COYP7EiCyJfOa3fxHhRpWXa26XWZJoRQ?usp=sharing
 
 
 ## Contextualização
